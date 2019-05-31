@@ -1,0 +1,4 @@
+npm init --> to create a package .json
+
+git remote add origin git@github.com:dianibar-work/helloworldnode.git
+git push -u origin master
